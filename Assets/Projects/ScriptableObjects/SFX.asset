@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1f0b7186c2cc2114f856d724241fdb27, type: 3}
+  m_Name: SFX
+  m_EditorClassIdentifier: 
+  audioInfos:
+  - audioName: SHOTGUN
+    audio: {fileID: 8300000, guid: 1df1429981f76644097c7fd47fc5f239, type: 3}
+  - audioName: RIFLE
+    audio: {fileID: 8300000, guid: 1b145bcffd767854fb0c71c37678ebaa, type: 3}
+  - audioName: ZOMBIE_0
+    audio: {fileID: 8300000, guid: 27b98a8c68f991b408c5c6afff25358c, type: 3}
+  - audioName: ZOMBIE_1
+    audio: {fileID: 8300000, guid: d0dd5a8e1fcf88c4c990c0c54c58a2ea, type: 3}
+  - audioName: ZOMBIE_2
+    audio: {fileID: 8300000, guid: 90054576c036ea44096d20cc89ff4da2, type: 3}
+  - audioName: ZOMBIE_3
+    audio: {fileID: 8300000, guid: 8b9826c915109c446be0c38d54721a2d, type: 3}
+  - audioName: HUMAN_HIT_0
+    audio: {fileID: 8300000, guid: e81834573d4df4f468eabaf381bd19e7, type: 3}
+  - audioName: HUMAN_HIT_1
+    audio: {fileID: 8300000, guid: 4684667f355e42842ab15d68c48502a8, type: 3}
+  - audioName: HUMAN_HIT_2
+    audio: {fileID: 8300000, guid: d1a1b5697c47e1e45a3b93ec8047e01b, type: 3}
+  - audioName: HUMAN_HIT_3
+    audio: {fileID: 8300000, guid: d1a1b5697c47e1e45a3b93ec8047e01b, type: 3}
+  - audioName: ZOMBIE_HIT_0
+    audio: {fileID: 8300000, guid: 0547b940dba4d964e9e447af1dc0759a, type: 3}
+  - audioName: ZOMBIE_HIT_1
+    audio: {fileID: 8300000, guid: a4366158371c9514cae30cfff454dcb2, type: 3}
+  - audioName: ZOMBIE_HIT_2
+    audio: {fileID: 8300000, guid: 5cd921b91deac4f47b05c451951f7a53, type: 3}
+  - audioName: GRENADE
+    audio: {fileID: 8300000, guid: 7a21c02d95c4c634da840b15fdd880ca, type: 3}
+  - audioName: SWITCH_WEAPON
+    audio: {fileID: 8300000, guid: e1d79f4a0c7873742babc5f6e9ff800e, type: 3}

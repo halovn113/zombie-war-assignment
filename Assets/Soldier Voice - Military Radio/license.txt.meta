@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: da32ec64c300d734f956c410ae773d09
+timeCreated: 1534214895
+licenseType: Store
+TextScriptImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 125867
+  packageName: Soldier Voice Military Radio
+  packageVersion: 1.1
+  assetPath: Assets/Soldier Voice - Military Radio/license.txt
+  uploadId: 334503

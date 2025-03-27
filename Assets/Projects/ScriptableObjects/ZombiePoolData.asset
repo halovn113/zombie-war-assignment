@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 48c6754c883d2ec4697b2cdad21a1402, type: 3}
+  m_Name: ZombiePoolData
+  m_EditorClassIdentifier: 
+  zombiePoolDatas:
+  - zombiePrefab: {fileID: 8192091677719507399, guid: 86808646633aaf648a1c5685f653f174, type: 3}
+    initialSize: 20
+  - zombiePrefab: {fileID: 8690170419112637789, guid: 36b9c1ab6c5668c46b59aaf5ec24dad9, type: 3}
+    initialSize: 10
